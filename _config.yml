@@ -1,11 +1,11 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               Life in Letters
+tagline:             'A minimal edition'
+description:         'An Ed. Minimal Edition of the Letters of Harold and Lenore Karlin'
+url:                 'http://jojokarlin.github.io'
+baseurl:             '/jojokarlin.github.io'
 
 # About/contact
 author:

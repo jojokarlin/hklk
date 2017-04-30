@@ -4,8 +4,8 @@
 title:               Life in Letters
 tagline:             'A minimal edition'
 description:         'An Ed. Minimal Edition of the Letters of Harold and Lenore Karlin'
-url:                 'http://jojokarlin.github.io'
-baseurl:             '/jojokarlin.github.io'
+url:                 ''
+baseurl:             '/ed'
 
 # About/contact
 author:
